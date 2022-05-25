@@ -1,0 +1,15 @@
+The file SBI.csv contains 2349 records of children admitted to the emergency 
+room with fever and tested for serious bacterial infection (sbi). 
+
+The following variables are included :
+id – patient’s number
+fever_hours – duration of the fever in hours
+age – child’s age
+sex – child’s sex (M / F)
+wcc – white cell count
+prevAB – previous antibiotics (Yes / No)
+sbi – serious bacterial infection (Not Applicable / UTI / Pneum / Bact)
+pct – procalcitonin
+crp – c-reactive protein
+
+DOWNLOAD SOURCE: https://www.dropbox.com/s/da3by5vuzkv77xi/SBI.csv?dl=1
